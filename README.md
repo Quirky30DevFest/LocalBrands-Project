@@ -9,10 +9,9 @@ I’ve talked a lot about web development, and hopefully I’ve stressed how imp
 
 ## Tutorials
 * [Boostrap](http://getbootstrap.com/)
-* [Meteor](https://www.meteor.com/)
-* [Web server for chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb)
-* [Progressive Web Application](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)
+* [Progressive Web Application](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)\
 * [Firebase](https://firebase.google.com/)
+* [Meteor](https://www.meteor.com/)
 
 ## Development
 * Gathering of information related to the site content [interview_Question_For_Client](http://www.chinkin.com/Web-Design/Web-Design-Questionnaire) &&(https://business.tutsplus.com/articles/how-to-extract-the-facts-with-a-web-design-client-questionnaire--fsw-1830)
