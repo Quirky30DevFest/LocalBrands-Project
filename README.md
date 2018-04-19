@@ -1,5 +1,8 @@
 # Step-By-Step Web Development Checklist
 I’ve talked a lot about web development, and hopefully I’ve stressed how important it is to make a plan. To help you make your plan, here is a simplified checklist for the development and design of a website or application.
+
+[Web Development Lifecycle.pdf](http://cs.tsu.edu/ghemri/CS434/ClassNotes/MobileWebDevelopment.pdf) ||
+[Web Development Lifecycle.png](http://teknolearn.com/wp-content/uploads/2017/01/SDLC.png)
 ## Preparation and Planning
 * Briefing
 * Marketing objectives
@@ -41,10 +44,11 @@ I’ve talked a lot about web development, and hopefully I’ve stressed how imp
 * Check web page title
 * Check web page description
 
-## Marketing
+## Online Marketing
 * Marketing models - ads, referrals
 * The 7ps - how are these addressed
 * offline-promotion
 * Research and Feedback
 * Data collection e.g Web Stats and analysisi
 * Revised marketing plan
+
