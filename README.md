@@ -1,5 +1,12 @@
-# Step-By-Step Web Development Checklist
-I’ve talked a lot about web development, and hopefully I’ve stressed how important it is to make a plan. To help you make your plan, here is a simplified checklist for the development and design of a website or application.
+# Introduction
+I’ve talked a lot about web development, and hopefully I’ve stressed how important it is to make a plan. Before you actually start  website or application, there are several steps which can be taken to ensure the success of the project. In this guide i will cover the key elements in determing the size, scope , budget and scheduling your project.
+
+## Determing The Scope
+You Have been tasked out to find out challenges faced by these typical local brands [clientA](), [clientB]() & [clientC]() and communicte ideas on how to solve the problem or challenge. You have been given a task, how much time is this going to take? how much information do you need upfront in order to generate a realistic solution? what other elements do you need to incorporate into to ensure you can say "yes" to the project withou getting into over your head? what does your expertise and time allow in order for it to be successful? by taking preliminary action to properly define the project and setup proper expertations with the client. You will save yourself some time and trouble in the end. The more experience you have in creating sites, the more predicting and troubleshooting you can do to sve yourself unnecessary expenses. The problem is, we don't often take time to properly define the scope of a project, you can use the time now or later. It is up to you.
+## Before You Start: The Client
+At the earliest opportunity, meet with your portential client for an interview session to gather information and full scope of the project. Interviewing a client is an important step in understanding the overall scope and direction to the client wishes to take. Identifying the scope and goals of the project will enable you to make a good decision and see if a project is a "fit" for your team. One the most important factors to consider with a new project is the person you will be working with to supply you direction, information, content and approval.
+
+To help you make your plan, here is a simplified checklist for the development and design of a website or application.
 
 [Web Development Lifecycle.pdf](http://cs.tsu.edu/ghemri/CS434/ClassNotes/MobileWebDevelopment.pdf) ||
 [Web Development Lifecycle.png](http://teknolearn.com/wp-content/uploads/2017/01/SDLC.png)
