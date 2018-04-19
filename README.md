@@ -12,7 +12,7 @@ I’ve talked a lot about web development, and hopefully I’ve stressed how imp
 
 ## Tutorials
 * [Boostrap](http://getbootstrap.com/)
-* [Progressive Web Application](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)\
+* [Progressive Web Application](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)
 * [Firebase](https://firebase.google.com/)
 * [Meteor](https://www.meteor.com/)
 
